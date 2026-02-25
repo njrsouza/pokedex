@@ -1,0 +1,40 @@
+.grass {
+    background-color: #7AC74C;
+}
+
+.water {
+    background-color: #6390F0;
+}
+
+.fire {
+    background-color: #EE8130;
+}
+
+.bug {
+    background-color: #A6B91A;
+}
+
+.normal {
+    background-color: #A8A77A;
+}
+
+.poison {
+    background-color: #A33EA1;
+}
+
+.electric {
+    background-color: #F7D02C;
+}
+
+.ground {
+    background-color: #E2BF65;
+}
+
+.fairy {
+    background-color: #D685AD;
+}
+
+.name-pokemon,
+.type {
+    text-transform: capitalize;
+}
