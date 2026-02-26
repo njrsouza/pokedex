@@ -35,6 +35,12 @@
 }
 
 .name-pokemon,
-.type {
+.type,
+.name-stat {
     text-transform: capitalize;
+}
+
+.pokemon:hover {
+    cursor: pointer;
+    transform: scale(1.1);
 }
