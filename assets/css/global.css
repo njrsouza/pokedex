@@ -1,46 +1,45 @@
 .grass {
-    background-color: #7AC74C;
+  background-color: #7ac74c;
 }
 
 .water {
-    background-color: #6390F0;
+  background-color: #6390f0;
 }
 
 .fire {
-    background-color: #EE8130;
+  background-color: #ee8130;
 }
 
 .bug {
-    background-color: #A6B91A;
+  background-color: #a6b91a;
 }
 
 .normal {
-    background-color: #A8A77A;
+  background-color: #a8a77a;
 }
 
 .poison {
-    background-color: #A33EA1;
+  background-color: #a33ea1;
 }
 
 .electric {
-    background-color: #F7D02C;
+  background-color: #f7d02c;
 }
 
 .ground {
-    background-color: #E2BF65;
+  background-color: #e2bf65;
 }
 
 .fairy {
-    background-color: #D685AD;
+  background-color: #d685ad;
 }
 
 .name-pokemon,
 .type,
 .name-stat {
-    text-transform: capitalize;
+  text-transform: capitalize;
 }
 
 .pokemon:hover {
-    cursor: pointer;
-    transform: scale(1.1);
+  cursor: pointer;
 }
